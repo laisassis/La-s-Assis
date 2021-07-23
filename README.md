@@ -24,5 +24,5 @@
 </a>
 
 </a>
-![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/laisassis/laisassis/blob/output/github-contribution-grid-snake.svg)
 </a>
