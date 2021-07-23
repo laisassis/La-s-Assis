@@ -1,6 +1,6 @@
 ### Hi there! 👋 
 
-###I'm [Laís Assis]
+### I'm [Laís Assis]
 
 -  :pencil: Full Stack Developer in training 
 -  :newspaper: Graduated in Journalism
