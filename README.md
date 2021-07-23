@@ -2,11 +2,13 @@
 
 ### I'm Laís Assis <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 -  :pencil: Full Stack Developer in training <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 -  :newspaper: Graduated in Journalism <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+
 -  📫 Please email me if you have any questions.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=laisassis&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark)
-[chartreuse-dark_repo](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=chartreuse-dark)
+![chartreuse-dark_repo](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=chartreuse-dark)
 
 #### Languages and tools:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
