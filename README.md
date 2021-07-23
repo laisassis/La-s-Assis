@@ -1,6 +1,8 @@
-### Hi there 👋 I'm [Laís Assis]
+### Hi there! 👋 
 
--  :pencil: I’m a Full Stack Developer in training 
+###I'm [Laís Assis]
+
+-  :pencil: Full Stack Developer in training 
 -  :newspaper: Graduated in Journalism
 -  📫 Please email me if you have any questions.
 
