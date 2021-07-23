@@ -1,6 +1,6 @@
 ### Hi there! 👋 
 
-### I'm Laís Assis
+### I'm Laís Assis <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 -  :pencil: Full Stack Developer in training 
 -  :newspaper: Graduated in Journalism
