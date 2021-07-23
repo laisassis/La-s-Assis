@@ -23,6 +23,4 @@
    <img alt="Laís' Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</a>
-![Snake animation](https://github.com/laisassis/laisassis/blob/output/github-contribution-grid-snake.svg)
-</a>
+
