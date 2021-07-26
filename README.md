@@ -6,7 +6,7 @@
 -  📫 Please email me if you have any questions.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=laisassis&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisassis&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 
 #### Languages and tools:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
