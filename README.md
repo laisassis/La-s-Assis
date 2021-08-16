@@ -6,10 +6,10 @@
 -  📫 Please email me if you have any questions.
 
 <div>
- <a href="https://github.com/laisassis">
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=laisassis&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
- <img height="150m" img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisassis&layout=compact&langs_count=7&theme=calm"/>
-<div>
+  <a href="https://github.com/laisassis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laisassis&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisassis&layout=compact&langs_count=7&theme=calm"/>
+</div>
 
 #### Languages and tools:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
