@@ -10,7 +10,7 @@
   <p></p>
   <a href="https://github.com/laisassis">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laisassis&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laisassis&show_icons=true&locale=en&theme=calm" alt="laisassis" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laisassis&show_icons=true&locale=en&theme=calm"/></p>
 </div>
 
 ### Languages and tools:
