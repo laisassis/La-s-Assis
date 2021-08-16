@@ -1,6 +1,6 @@
 ### Hello World! 👋 
 
-### I'm Laís Assis <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+### I'm Laís Assis <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="250">
 -  :pencil: Full Stack Developer in training <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 -  :newspaper: Graduated in Journalism <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">
 -  📫 Please email me if you have any questions.
@@ -8,6 +8,7 @@
 <a href="https://github.com/laisassis">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laisassis&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisassis&layout=compact&langs_count=7&theme=calm"/>
+</a>
 
 #### Languages and tools:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
