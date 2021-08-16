@@ -5,7 +5,8 @@
 -  :newspaper: Graduated in Journalism <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">
 -  📫 Please email me if you have any questions.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=laisassis&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=calm)<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisassis&layout=compact&langs_count=7&theme=calm"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laisassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisassis&layout=compact&langs_count=7&theme=dracula"/>
 
 #### Languages and tools:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
