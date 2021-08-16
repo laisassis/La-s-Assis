@@ -13,7 +13,7 @@
   <img align='center' img src="https://github-readme-stats.vercel.app/api/top-langs?username=laisassis&show_icons=true&locale=en&theme=calm" alt="laisassis" /></p>
 </div>
 
-<h3>Languages and tools:</h3>
+### Languages and tools:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
