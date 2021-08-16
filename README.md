@@ -7,7 +7,7 @@
 
 <a href="https://github.com/laisassis">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laisassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisassis&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisassis&layout=compact&langs_count=7&theme=dracula"/>
 
 #### Languages and tools:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
