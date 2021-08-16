@@ -1,6 +1,9 @@
 ### Hello World! 👋 
 
 ### I'm Laís Assis
+<div>
+  <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
+</div>
 -  :pencil: Full Stack Developer in training <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 -  :newspaper: Graduated in Journalism <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">
 -  📫 Please email me if you have any questions.
