@@ -10,10 +10,10 @@
   <p></p>
   <a href="https://github.com/laisassis">
   <img align='center' img height="150em" src="https://github-readme-stats.vercel.app/api?username=laisassis&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laisassis&show_icons=true&locale=en&theme=calm" alt="laisassis" /></p>
+  <img align='center' img src="https://github-readme-stats.vercel.app/api/top-langs?username=laisassis&show_icons=true&locale=en&theme=calm" alt="laisassis" /></p>
 </div>
 
-##### Languages and tools:
+<h3>Languages and tools:</h3>
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
